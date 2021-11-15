@@ -1,0 +1,19 @@
+.first_field{
+    background: rgb(199, 15, 15);
+    height: 100vh;
+    border: 1px solid rgba(179, 63, 63, 0.87);
+}
+.first{
+    background: rgb(91, 80, 184);
+}
+.second_fied{
+    background: yellow;
+   
+}
+.second{
+    background: rgb(43, 113, 146);
+    padding:3% 0
+}
+.two,.gender,.check,.finsh{
+    margin:4% 0 0
+}
